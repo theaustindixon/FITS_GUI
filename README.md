@@ -10,5 +10,5 @@ University Library Office for Information Systems for use in its Digital Reposit
 FITS_GUI is a GUI (graphic user interface) for running FITS. It saves the results as OUTPUT.txt.
 
 Must have fits.bat installed in the same folder as FITS_GUI. You can download fits.bat here: 
-https://code.google.com/p/fits/
+https://projects.iq.harvard.edu/fits/home
 
